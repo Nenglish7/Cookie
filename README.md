@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Nenglish7/Cookie.svg?branch=master)](https://travis-ci.org/Nenglish7/Cookie)
+[![Build Status](https://travis-ci.org/Nenglish7/Cookie.svg?branch=master)](https://travis-ci.org/Nenglish7/Cookie) [![Coverage Status](https://coveralls.io/repos/github/Nenglish7/Cookie/badge.svg?branch=master)](https://coveralls.io/github/Nenglish7/Cookie?branch=master)
 
 ## Welcome to GitHub Pages
 
