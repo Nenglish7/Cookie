@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/zeroastro/SQZ-Cookie-Handler.svg?branch=master)](https://travis-ci.org/zeroastro/SQZ-Cookie-Handler)
+[![Build Status](https://travis-ci.org/Nenglish7/Cookie.svg?branch=master)](https://travis-ci.org/Nenglish7/Cookie)
 
 ## Welcome to GitHub Pages
 
