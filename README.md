@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Nenglish7/Cookie.svg?branch=master)](https://travis-ci.org/Nenglish7/Cookie) [![Coverage Status](https://coveralls.io/repos/github/Nenglish7/Cookie/badge.svg?branch=master)](https://coveralls.io/github/Nenglish7/Cookie?branch=master)
+[![Build Status](https://travis-ci.org/Nenglish7/Cookie.svg?branch=master)](https://travis-ci.org/Nenglish7/Cookie) [![StyleCI](https://styleci.io/repos/76901767/shield?branch=master)](https://styleci.io/repos/76901767)
 
 ## Welcome to GitHub Pages
 
