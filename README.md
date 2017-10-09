@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Nenglish7/Cookie.svg?style=plastic&branch=master)](https://travis-ci.org/Nenglish7/Cookie) [![StyleCI](https://styleci.io/repos/106218937/shield?branch=master)](https://styleci.io/repos/106218937)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/Nenglish7/Cookie/blob/master/LICENSE) [![StyleCI](https://styleci.io/repos/106218937/shield?branch=master)](https://styleci.io/repos/106218937)
 
 ## Welcome to GitHub Pages
 
