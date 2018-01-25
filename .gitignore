@@ -1,2 +1,10 @@
 composer.phar
+composer.lock
+composer.json
 /vendor/
+/tests/
+/docs/
+.travis.yml
+.coveralls.yml
+README.md
+LICENSE
