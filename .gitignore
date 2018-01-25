@@ -8,3 +8,5 @@ composer.json
 .coveralls.yml
 README.md
 LICENSE
+phpunit.xml.dist
+change.log
